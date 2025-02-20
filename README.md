@@ -1,4 +1,4 @@
-Olá, sou o Kayque! 👋
+###Olá, sou o Kayque! 👋
 Sou um desenvolvedor apaixonado por Python, com um foco especial em Data Science. Adoro trabalhar com dados e utilizar bibliotecas poderosas como Pandas, NumPy, Matplotlib e Scikit-learn para extrair insights valiosos e construir modelos preditivos. Tenho experiência tanto em análise de dados quanto em programação de banco de dados, sempre buscando soluções eficientes e bem estruturadas.
 
 Combinando minhas habilidades em Python e em bancos de dados, consigo criar soluções completas para análise e gestão de grandes volumes de dados. Sou movido pelo desejo constante de aprender e explorar novas ferramentas e técnicas, seja para aprimorar meus modelos de Machine Learning ou para melhorar a performance de sistemas.
