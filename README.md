@@ -4,7 +4,7 @@ Desenvolvedor Backend Python | Engenharia de Software
 
 Olá! Eu sou Kayque Silva Pimentel, estudante de Engenharia de Software e desenvolvedor com foco em Backend Python.
 
-Tenho experiência no desenvolvimento de APIs REST com FastAPI e Flask, integração com bancos de dados MySQL, automação de processos e manipulação e análise de dados.
+Tenho experiência no desenvolvimento de APIs REST com FastAPI e Django, integração com bancos de dados MySQL, automação de processos e manipulação e análise de dados.
 
 Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde possa aplicar meus conhecimentos e evoluir na construção de sistemas escaláveis.
 
