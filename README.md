@@ -1,8 +1,8 @@
 👨‍💻 Kayque Silva Pimentel
 
-Desenvolvedor Backend Python | Engenharia de Software
+Desenvolvedor Full Stack | Engenharia de Software
 
-Olá! Eu sou Kayque Silva Pimentel, estudante de Engenharia de Software e desenvolvedor com foco em Backend Python.
+Olá! Eu sou Kayque Silva Pimentel, estudante de Engenharia de Software e desenvolvedor com foco em Full Stack Python.
 
 Tenho experiência no desenvolvimento de APIs REST com FastAPI e Django, integração com bancos de dados MySQL, automação de processos e manipulação e análise de dados.
 
