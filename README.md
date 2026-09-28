@@ -23,3 +23,15 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
           
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorobama&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorobama&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorobama&theme=gotham" width="33%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorobama&theme=gotham&name=professorobama&animation=load" width="100%" />
+</p>
+</div>
