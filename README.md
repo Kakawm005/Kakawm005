@@ -25,13 +25,16 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
           
 ### 📊 GitHub Stats
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=Kakawm005&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" alt="Anurag's GitHub stats" />
-  </picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kakawm005&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kakawm005&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kakawm005&theme=gotham" width="33%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorobama&theme=gotham&name=professorobama&animation=load" width="100%" />
+</p>
+</div>
 
 <picture>
           <source
