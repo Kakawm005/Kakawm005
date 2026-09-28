@@ -36,7 +36,7 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 <a href="https://wakatime.com/@alan">
           <picture>
                     <source
-                              srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github"
+                              srcset="https://github-stats-extended.vercel.app/api/wakatime?username=Kakawm005&langs_count=6&theme=dark_github"
                               media="(prefers-color-scheme: dark)"
                     />
                     <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
