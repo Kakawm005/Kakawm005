@@ -25,4 +25,4 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
           
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kakawm005)](https://github.com/stats-organization/github-stats-extended)
