@@ -32,6 +32,6 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorobama&theme=gotham&name=Kakawm005&animation=load" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakawm005&theme=gotham&name=Kakawm005&animation=load" width="100%" />
 </p>
 </div>
