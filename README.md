@@ -25,5 +25,4 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kakawm005&theme=dark&hide_border=true&locale=pt_BR&timezone=18&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kakawm005&theme=dark&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
