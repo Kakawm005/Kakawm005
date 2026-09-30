@@ -28,7 +28,7 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kakawm005&theme=transparent&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake.svg" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake-dark.svg" />
 </picture>
