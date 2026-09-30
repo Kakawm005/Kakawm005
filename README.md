@@ -58,21 +58,21 @@ Não curto ficar só na teoria. Gosto de pegar o que aprendi, colocar a mão na 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermeszandrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeszandrade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kakawm005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakawm005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=guilhermeszandrade&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Kakawm005&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeszandrade&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakawm005&theme=tokyo-night&hide_border=true" />
   
 </div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake.svg" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/guijeitoso/guijeitoso/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Kakawm005/Kakawm005/output/github-snake-dark.svg" />
 </picture>
 
 </div>
