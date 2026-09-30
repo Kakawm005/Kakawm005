@@ -27,10 +27,4 @@ Atualmente, busco oportunidades de estágio em desenvolvimento backend, onde pos
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kakawm005&theme=transparent&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
-- uses: Platane/snk@v3
-  with:
-      github_user_name: ${{ github.Kakawm005 }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+![snake animation](https://github.com/Kakawm005/Kakawm005/blob/output/github-contribution-grid-snake2.svg)
