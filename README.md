@@ -1,6 +1,4 @@
-👨‍💻 Kayque Silva Pimentel
-
-Desenvolvedor Full Stack | Engenharia de Software
+👨‍💻 Desenvolvedor Full Stack | Engenharia de Software
 
 Olá! Eu sou Kayque Silva Pimentel, estudante de Engenharia de Software e desenvolvedor com foco em Full Stack Python.
 
