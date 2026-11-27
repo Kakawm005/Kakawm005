@@ -1,8 +1,6 @@
 👨‍💻 Desenvolvedor Full Stack | Engenharia de Software
 
-Olá! Eu sou Kayque Silva Pimentel, estudante de Engenharia de Software e desenvolvedor com foco em Full Stack Python.
-
-Sou estudante de Engenharia de Software na UNICID e participante do PROPROFISSÃO, programa de formação em Desenvolvimento de Software Full Stack, uma experiência que vem ampliando minha visão sobre tecnologia e desenvolvimento de software no mercado de trabalho.
+Olá! Eu sou Kayque Silva Pimentel, sou estudante de Engenharia de Software na UNICID e participante do PROPROFISSÃO, programa de formação em Desenvolvimento de Software Full Stack, uma experiência que vem ampliando minha visão sobre tecnologia e desenvolvimento de software no mercado de trabalho.
 
 Também tenho interesse em inteligência artificial, automação e análise de dados, áreas que exploro por meio de estudos e projetos práticos.
 
